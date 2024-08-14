@@ -32,3 +32,6 @@
 
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+# macOS固有のファイルを無視
+.DS_Store
